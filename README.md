@@ -1,6 +1,6 @@
 # Data Science with Python
 
-Welcome to the Data Analysis with repository! This repository contains various examples and exercises to help learn data science using Python.
+Welcome to the Data Analysis repository! This repository contains various examples and exercises to help learn data science using Python.
 
 ## Contents
 
