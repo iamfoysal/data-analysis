@@ -1,0 +1,8 @@
+int  a = a / 1;
+
+if (b == 1 ) {
+    printf("True \n");
+}
+else {
+    printf("False \n");
+} 
