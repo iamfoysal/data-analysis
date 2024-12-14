@@ -48,7 +48,3 @@ Welcome to the Data Analysis with repository! This repository contains various e
 ## Contributing
 
 Feel free to fork this repository and contribute by submitting a pull request. Please ensure your changes are well-documented and tested.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
