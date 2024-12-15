@@ -51,7 +51,7 @@ Welcome to the Data Analysis repository! This repository contains various exampl
 ### Data Generation
 
 - `generator/data_generate.py`: Script to generate fake data and insert it into a SQLite database.
-- `generator/products.csv`: Sample CSV file containing product data.
+- `generator/products_csv.py`: Sample CSV file containing product data.
 
 ### Database
 
