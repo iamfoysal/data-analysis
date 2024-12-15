@@ -28,7 +28,7 @@ def generate_product_data(num_products):
         products.append(product)
     return products
 
-def save_to_csv(products, filename="data_file/products.csv"):
+def save_to_csv(products, filename="files/products.csv"):
     with open(filename, mode="w", newline="", encoding="utf-8") as file:
         writer = csv.DictWriter(file, fieldnames=["name", "stock", "price", "unit", "category", "branch"])
         writer.writeheader()

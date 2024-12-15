@@ -33,11 +33,6 @@ Welcome to the Data Analysis repository! This repository contains various exampl
     ```
 
 
-### Jupyter Notebooks
-
-- `data_frame.ipynb`: Creating and manipulating data frames using pandas.
-- `ds_functions.ipynb`: Data cleaning functions using pandas.
-- `read_data_from_database.ipynb`: Reading data from a SQLite database into a pandas DataFrame.
 
 ### Lexical Analysis
 
@@ -46,14 +41,24 @@ Welcome to the Data Analysis repository! This repository contains various exampl
 - `lexical_analysis/lexical_analysis_java/lexical_analysis.java`: Lexical analysis example in Java.
 - `lexical_analysis/lexical_analysis_py/lexical_analysis.py`: Lexical analysis example in Python.
 
+### Jupyter Notebooks
+
+- `data_frame.ipynb`: Creating and manipulating data frames using pandas.
+- `ds_functions.ipynb`: Data cleaning functions using pandas.
+- `read_data_from_database.ipynb`: Reading data from a SQLite database into a pandas DataFrame.
+- `ds_data_preparation.ipynb`: Data preparation and cleaning using pandas.
+
 ### Data Generation
 
 - `generator/data_generate.py`: Script to generate fake data and insert it into a SQLite database.
+- `generator/products.csv`: Sample CSV file containing product data.
 
 ### Database
 
 - `db/users.db`: SQLite database file containing user data.
 
+### Data Files
 
+- `files/`: Directory containing `files` for analysis.
 
 
