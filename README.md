@@ -55,10 +55,10 @@ Welcome to the Data Analysis repository! This repository contains various exampl
 
 ### Database
 
-- `db/users.db`: SQLite database file containing user data.
+- `db/users.db`: SQLite database file containing user data for analysis and testing purposes.
 
 ### Data Files
 
-- `files/`: Directory containing `files` for analysis.
+- `files/`: Directory containing various files for data analysis, including CSV, JSON, and other data formats.
 
 
